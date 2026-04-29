@@ -33,7 +33,7 @@ Developed an interactive Tableau dashboard featuring a choropleth map, a horizon
 
 ## Dashboard Preview
 
-![NYC Housing Price Disparities Dashboard](nyc_housing_dashboard.png)
+![NYC Housing Price Disparities Dashboard](NYC_Housing_Dashboard.png)
 
 
 ## Key Findings
