@@ -9,6 +9,8 @@ A collection of statistical and data science projects completed as part of my co
 | Project | Description | Tools |
 |---|---|---|
 | [Bayes Theorem — Loan Dataset Analysis](./bayes-loan-analysis/) | Applied Bayes Theorem to a 614-observation loan dataset to explore two conditional probability hypotheses | R |
+| [NYC Housing Price Disparities](./nyc-housing-dashboard/) | Interactive Tableau dashboard analyzing housing prices and transaction volume across NYC boroughs, with a physical poster installation | Tableau |
+
 
 ---
 
