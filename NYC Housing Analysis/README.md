@@ -31,6 +31,11 @@ Developed an interactive Tableau dashboard featuring a choropleth map, a horizon
 
 ---
 
+## Dashboard Preview
+
+![NYC Housing Price Disparities Dashboard](nyc_housing_dashboard.png)
+
+
 ## Key Findings
 
 Manhattan average sale prices are roughly ten times higher than Staten Island, making it a clear outlier among the boroughs. Queens leads all boroughs in transaction volume, followed closely by Brooklyn. High-value sales are geographically concentrated in Manhattan, while transaction activity is spread more broadly across the outer boroughs.
